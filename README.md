@@ -1,8 +1,5 @@
 # Construindo uma API com Laravel e JWT
 
-## Descrição do projeto
-
-Neste projeto, desenvolvemos juntos uma API utilizando Laravel e JWT para podermos fazer controle de nossas rotas. 
 
 ## Para rodar o projeto
 
