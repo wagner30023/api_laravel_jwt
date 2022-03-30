@@ -31,11 +31,8 @@ Criar chave secreta para o JWT
 
 ## Links
 
-[PPT utilizado na Live](https://docs.google.com/presentation/d/1FMctl_M15DiI1QgKOGy_Q1PkLuTyC8KnDCme0MSligY/edit?usp=sharing)
 
 [Zip com arquivos docker](https://bit.ly/vitor-laravel-jwt-utils)
-
-[Plataforma com cursos de Laravel](https://laracasts.com/)
 
 [Documentação do JWT](https://jwt.io/)
 
